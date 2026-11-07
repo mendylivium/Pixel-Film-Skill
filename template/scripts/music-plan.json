@@ -1,0 +1,9 @@
+{
+  "len": 36,
+  "sections": [[0, "intro"], [6, "main"], [22, "break"], [26, "main"], [32, "end"]],
+  "lead": [[6, 22], [26, 32]],
+  "up": [[14, 22]],
+  "leadFrom": 6,
+  "hits": [6, 26],
+  "final": 32
+}
